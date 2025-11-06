@@ -1,0 +1,546 @@
+[
+  {
+    "title": "Exporting files from Trint",
+    "url": "https://dev.trint.com/docs/exporting-files-from-trint",
+    "slug": "docs__exporting-files-from-trint",
+    "path": "knowledge/trint-api/raw/docs__exporting-files-from-trint.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Trint API Pricing",
+    "url": "https://dev.trint.com/docs/pricing",
+    "slug": "docs__pricing",
+    "path": "knowledge/trint-api/raw/docs__pricing.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Webhooks",
+    "url": "https://dev.trint.com/docs/receiving-callback-notifications",
+    "slug": "docs__receiving-callback-notifications",
+    "path": "knowledge/trint-api/raw/docs__receiving-callback-notifications.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "SCIM API and Trint",
+    "url": "https://dev.trint.com/docs/scim",
+    "slug": "docs__scim",
+    "path": "knowledge/trint-api/raw/docs__scim.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Trint API Keys and Authentication",
+    "url": "https://dev.trint.com/docs/trint-api-keys",
+    "slug": "docs__trint-api-keys",
+    "path": "knowledge/trint-api/raw/docs__trint-api-keys.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Uploading files to Trint",
+    "url": "https://dev.trint.com/docs/uploading-files-to-trint",
+    "slug": "docs__uploading-files-to-trint",
+    "path": "knowledge/trint-api/raw/docs__uploading-files-to-trint.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "US vs EU Tenant",
+    "url": "https://dev.trint.com/docs/us-vs-eu-tenant",
+    "slug": "docs__us-vs-eu-tenant",
+    "path": "knowledge/trint-api/raw/docs__us-vs-eu-tenant.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Avid DS",
+    "url": "https://dev.trint.com/reference/avid-dstrint-id",
+    "slug": "reference__avid-dstrint-id",
+    "path": "knowledge/trint-api/raw/reference__avid-dstrint-id.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Create Push Stream",
+    "url": "https://dev.trint.com/reference/create-push-stream",
+    "slug": "reference__create-push-stream",
+    "path": "knowledge/trint-api/raw/reference__create-push-stream.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Create Translation",
+    "url": "https://dev.trint.com/reference/create-translation",
+    "slug": "reference__create-translation",
+    "path": "knowledge/trint-api/raw/reference__create-translation.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "create a group",
+    "url": "https://dev.trint.com/reference/creategroup",
+    "slug": "reference__creategroup",
+    "path": "knowledge/trint-api/raw/reference__creategroup.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "create a user",
+    "url": "https://dev.trint.com/reference/createuser",
+    "slug": "reference__createuser",
+    "path": "knowledge/trint-api/raw/reference__createuser.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Comments (CSV)",
+    "url": "https://dev.trint.com/reference/csvcommentstrint-id",
+    "slug": "reference__csvcommentstrint-id",
+    "path": "knowledge/trint-api/raw/reference__csvcommentstrint-id.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Highlights (CSV)",
+    "url": "https://dev.trint.com/reference/csvhighlightstrint-id",
+    "slug": "reference__csvhighlightstrint-id",
+    "path": "knowledge/trint-api/raw/reference__csvhighlightstrint-id.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "De-register Webook",
+    "url": "https://dev.trint.com/reference/de-register-webook",
+    "slug": "reference__de-register-webook",
+    "path": "knowledge/trint-api/raw/reference__de-register-webook.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Delete Translation",
+    "url": "https://dev.trint.com/reference/delete-translation",
+    "slug": "reference__delete-translation",
+    "path": "knowledge/trint-api/raw/reference__delete-translation.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "delete a group",
+    "url": "https://dev.trint.com/reference/deletegroup",
+    "slug": "reference__deletegroup",
+    "path": "knowledge/trint-api/raw/reference__deletegroup.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "delete a user",
+    "url": "https://dev.trint.com/reference/deleteuser",
+    "slug": "reference__deleteuser",
+    "path": "knowledge/trint-api/raw/reference__deleteuser.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Webhook Event Types",
+    "url": "https://dev.trint.com/reference/events",
+    "slug": "reference__events",
+    "path": "knowledge/trint-api/raw/reference__events.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "List Folders",
+    "url": "https://dev.trint.com/reference/folders",
+    "slug": "reference__folders",
+    "path": "knowledge/trint-api/raw/reference__folders.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Transcript CSV",
+    "url": "https://dev.trint.com/reference/full-transcript-csv",
+    "slug": "reference__full-transcript-csv",
+    "path": "knowledge/trint-api/raw/reference__full-transcript-csv.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Retrieve File",
+    "url": "https://dev.trint.com/reference/get-file",
+    "slug": "reference__get-file",
+    "path": "knowledge/trint-api/raw/reference__get-file.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Get realtime status",
+    "url": "https://dev.trint.com/reference/get-realtime-status",
+    "slug": "reference__get-realtime-status",
+    "path": "knowledge/trint-api/raw/reference__get-realtime-status.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Get Translations",
+    "url": "https://dev.trint.com/reference/get-translations",
+    "slug": "reference__get-translations",
+    "path": "knowledge/trint-api/raw/reference__get-translations.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "get a group by id",
+    "url": "https://dev.trint.com/reference/getgroupbyid",
+    "slug": "reference__getgroupbyid",
+    "path": "knowledge/trint-api/raw/reference__getgroupbyid.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "get a resource type by id",
+    "url": "https://dev.trint.com/reference/getresourcetypebyid",
+    "slug": "reference__getresourcetypebyid",
+    "path": "knowledge/trint-api/raw/reference__getresourcetypebyid.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "get information about supported resource types",
+    "url": "https://dev.trint.com/reference/getresourcetypes",
+    "slug": "reference__getresourcetypes",
+    "path": "knowledge/trint-api/raw/reference__getresourcetypes.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "get a resource schema by id",
+    "url": "https://dev.trint.com/reference/getschemabyid",
+    "slug": "reference__getschemabyid",
+    "path": "knowledge/trint-api/raw/reference__getschemabyid.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "get information about supported resource schemas",
+    "url": "https://dev.trint.com/reference/getschemas",
+    "slug": "reference__getschemas",
+    "path": "knowledge/trint-api/raw/reference__getschemas.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "get service provider config",
+    "url": "https://dev.trint.com/reference/getserviceproviderconfig",
+    "slug": "reference__getserviceproviderconfig",
+    "path": "knowledge/trint-api/raw/reference__getserviceproviderconfig.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "get a user by id",
+    "url": "https://dev.trint.com/reference/getuserbyid",
+    "slug": "reference__getuserbyid",
+    "path": "knowledge/trint-api/raw/reference__getuserbyid.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "HTML",
+    "url": "https://dev.trint.com/reference/html",
+    "slug": "reference__html",
+    "path": "knowledge/trint-api/raw/reference__html.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "JSON",
+    "url": "https://dev.trint.com/reference/jsontrint-id",
+    "slug": "reference__jsontrint-id",
+    "path": "knowledge/trint-api/raw/reference__jsontrint-id.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "List Shared Drives",
+    "url": "https://dev.trint.com/reference/list-workspaces",
+    "slug": "reference__list-workspaces",
+    "path": "knowledge/trint-api/raw/reference__list-workspaces.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Markers (CSV)",
+    "url": "https://dev.trint.com/reference/markers-csv",
+    "slug": "reference__markers-csv",
+    "path": "knowledge/trint-api/raw/reference__markers-csv.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "List Files",
+    "url": "https://dev.trint.com/reference/page",
+    "slug": "reference__page",
+    "path": "knowledge/trint-api/raw/reference__page.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Create Folder",
+    "url": "https://dev.trint.com/reference/page-1",
+    "slug": "reference__page-1",
+    "path": "knowledge/trint-api/raw/reference__page-1.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Stop realtime transcription",
+    "url": "https://dev.trint.com/reference/page-2",
+    "slug": "reference__page-2",
+    "path": "knowledge/trint-api/raw/reference__page-2.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "partially update/patch a group",
+    "url": "https://dev.trint.com/reference/patchgroup",
+    "slug": "reference__patchgroup",
+    "path": "knowledge/trint-api/raw/reference__patchgroup.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "partially update/patch a user",
+    "url": "https://dev.trint.com/reference/patchuser",
+    "slug": "reference__patchuser",
+    "path": "knowledge/trint-api/raw/reference__patchuser.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Premiere XML",
+    "url": "https://dev.trint.com/reference/premiere-xml",
+    "slug": "reference__premiere-xml",
+    "path": "knowledge/trint-api/raw/reference__premiere-xml.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Premiere XML",
+    "url": "https://dev.trint.com/reference/premiere-xml-copy",
+    "slug": "reference__premiere-xml-copy",
+    "path": "knowledge/trint-api/raw/reference__premiere-xml-copy.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Register Webhook",
+    "url": "https://dev.trint.com/reference/register-webhook-endpoint",
+    "slug": "reference__register-webhook-endpoint",
+    "path": "knowledge/trint-api/raw/reference__register-webhook-endpoint.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "fully update/replace a group",
+    "url": "https://dev.trint.com/reference/replacegroup",
+    "slug": "reference__replacegroup",
+    "path": "knowledge/trint-api/raw/reference__replacegroup.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "fully update/replace a user",
+    "url": "https://dev.trint.com/reference/replaceuser",
+    "slug": "reference__replaceuser",
+    "path": "knowledge/trint-api/raw/reference__replaceuser.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Retrieve Folder",
+    "url": "https://dev.trint.com/reference/retrieve-folder",
+    "slug": "reference__retrieve-folder",
+    "path": "knowledge/trint-api/raw/reference__retrieve-folder.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Retrieve Shared Drive",
+    "url": "https://dev.trint.com/reference/retrieve-shared-drive",
+    "slug": "reference__retrieve-shared-drive",
+    "path": "knowledge/trint-api/raw/reference__retrieve-shared-drive.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "search or list groups",
+    "url": "https://dev.trint.com/reference/searchgroupsviaget",
+    "slug": "reference__searchgroupsviaget",
+    "path": "knowledge/trint-api/raw/reference__searchgroupsviaget.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "search or list groups",
+    "url": "https://dev.trint.com/reference/searchgroupsviapost",
+    "slug": "reference__searchgroupsviapost",
+    "path": "knowledge/trint-api/raw/reference__searchgroupsviapost.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "search or list users",
+    "url": "https://dev.trint.com/reference/searchusersviaget",
+    "slug": "reference__searchusersviaget",
+    "path": "knowledge/trint-api/raw/reference__searchusersviaget.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "search or list users",
+    "url": "https://dev.trint.com/reference/searchusersviapost",
+    "slug": "reference__searchusersviapost",
+    "path": "knowledge/trint-api/raw/reference__searchusersviapost.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Spruce STL",
+    "url": "https://dev.trint.com/reference/spruce-stltrint-id",
+    "slug": "reference__spruce-stltrint-id",
+    "path": "knowledge/trint-api/raw/reference__spruce-stltrint-id.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Begin realtime transcription",
+    "url": "https://dev.trint.com/reference/start-new-realtime-transcript",
+    "slug": "reference__start-new-realtime-transcript",
+    "path": "knowledge/trint-api/raw/reference__start-new-realtime-transcript.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Microsoft Word (.docx)",
+    "url": "https://dev.trint.com/reference/story-builder-docx",
+    "slug": "reference__story-builder-docx",
+    "path": "knowledge/trint-api/raw/reference__story-builder-docx.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Editorial Decision List (EDL)",
+    "url": "https://dev.trint.com/reference/story-builder-edl",
+    "slug": "reference__story-builder-edl",
+    "path": "knowledge/trint-api/raw/reference__story-builder-edl.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Trint Story",
+    "url": "https://dev.trint.com/reference/story-files",
+    "slug": "reference__story-files",
+    "path": "knowledge/trint-api/raw/reference__story-files.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "SubRip SRT",
+    "url": "https://dev.trint.com/reference/subrip-srt-copy",
+    "slug": "reference__subrip-srt-copy",
+    "path": "knowledge/trint-api/raw/reference__subrip-srt-copy.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Telestream Vantage XML",
+    "url": "https://dev.trint.com/reference/telestream-vantage-xml",
+    "slug": "reference__telestream-vantage-xml",
+    "path": "knowledge/trint-api/raw/reference__telestream-vantage-xml.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "SubRip SRT",
+    "url": "https://dev.trint.com/reference/testinput-1",
+    "slug": "reference__testinput-1",
+    "path": "knowledge/trint-api/raw/reference__testinput-1.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Text",
+    "url": "https://dev.trint.com/reference/text",
+    "slug": "reference__text",
+    "path": "knowledge/trint-api/raw/reference__text.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Trint Transcript",
+    "url": "https://dev.trint.com/reference/transcript",
+    "slug": "reference__transcript",
+    "path": "knowledge/trint-api/raw/reference__transcript.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Microsoft Word (docx)",
+    "url": "https://dev.trint.com/reference/transcript-docx",
+    "slug": "reference__transcript-docx",
+    "path": "knowledge/trint-api/raw/reference__transcript-docx.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Edit Decision List - EDL",
+    "url": "https://dev.trint.com/reference/transcript-edl",
+    "slug": "reference__transcript-edl",
+    "path": "knowledge/trint-api/raw/reference__transcript-edl.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Translation Languages",
+    "url": "https://dev.trint.com/reference/translation-languages",
+    "slug": "reference__translation-languages",
+    "path": "knowledge/trint-api/raw/reference__translation-languages.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Trint Caption",
+    "url": "https://dev.trint.com/reference/trint-caption",
+    "slug": "reference__trint-caption",
+    "path": "knowledge/trint-api/raw/reference__trint-caption.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "Upload and Transcribe",
+    "url": "https://dev.trint.com/reference/upload",
+    "slug": "reference__upload",
+    "path": "knowledge/trint-api/raw/reference__upload.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "WebVTT",
+    "url": "https://dev.trint.com/reference/webvtttrint-id",
+    "slug": "reference__webvtttrint-id",
+    "path": "knowledge/trint-api/raw/reference__webvtttrint-id.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  },
+  {
+    "title": "XML",
+    "url": "https://dev.trint.com/reference/xmltrint-id",
+    "slug": "reference__xmltrint-id",
+    "path": "knowledge/trint-api/raw/reference__xmltrint-id.md",
+    "retrieved": "2025-11-06T03:44:37.793354+00:00",
+    "status_code": 200
+  }
+]
